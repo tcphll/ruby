@@ -94,3 +94,4 @@ song_list.songs.each do |song|
 end
 
 puts 'I am finished!'
+puts 'This is dumb'
